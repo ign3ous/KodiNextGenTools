@@ -81,8 +81,8 @@
 
 <addon id="repository.kodinextgentools" name="Kodi Next Gen Tool Repository" version="0.1.0" provider-name="KODI NEXT GEN TOOL">
 	<extension point="xbmc.addon.repository" name="Kodi Next Gen Tool Repository">
-        <info compressed="false">https://github.com/atkins87/KodiNextGenTools/master/repoaddons.xml</info>
-		<checksum>https://github.com/atkins87/KodiNextGenTools/master/repoaddons.xml.md5</checksum>
+        <info compressed="false">https://github.com/atkins87/KodiNextGenTools/blob/master/repo/addons.xml</info>
+		<checksum>https://github.com/atkins87/KodiNextGenTools/blob/master/repo/addons.xml.md5</checksum>
 		<datadir zip="true">https://github.com/atkins87/KodiNextGenTools/master/zips</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
